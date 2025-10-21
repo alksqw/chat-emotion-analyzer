@@ -1,5 +1,5 @@
 # chat-emotion-analyzer
-AI-powered tool that analyzes emotional patterns in text conversations. Uses ruBERT model for Russian sentiment detection and provides interactive visualizations of mood dynamics between participants.
+Инструмент на базе искусственного интеллекта, который анализирует эмоциональные паттерны в текстовых сообщениях. Использует модель Руберта для определения настроений россиян и предоставляет интерактивную визуализацию динамики настроений между участниками.
 
 ```markdown
 # Анализатор эмоций в переписке
